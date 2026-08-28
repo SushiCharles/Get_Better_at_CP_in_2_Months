@@ -26,7 +26,7 @@ Dynamic Programming
   - [ ] [An impassioned circulation of affection](https://codeforces.com/problemset/problem/814/C)
   - [ ] [Color Stripe](https://codeforces.com/problemset/problem/219/C)
   - [ ] [Prime XOR](https://www.hackerrank.com/challenges/prime-xor/problem)
-  - [ ] [HackerRank City](https://www.hackerrank.com/challenges/hr-city/problem)
+  - [x] [HackerRank City](https://www.hackerrank.com/challenges/hr-city/problem)
 
 ### Contests
 - [ ] [Educational DP contest on AtCoder](https://atcoder.jp/contests/dp)
