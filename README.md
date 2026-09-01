@@ -23,7 +23,7 @@ Dynamic Programming
   - [ ] [Divisibility by Eight](https://codeforces.com/problemset/problem/550/C)
   - [ ] [Bishwock](https://codeforces.com/problemset/problem/991/D)
   - [ ] [Functions again](https://codeforces.com/problemset/problem/788/A)
-  - [ ] [An impassioned circulation of affection](https://codeforces.com/problemset/problem/814/C)
+  - [x] [An impassioned circulation of affection](https://codeforces.com/problemset/problem/814/C)
   - [ ] [Color Stripe](https://codeforces.com/problemset/problem/219/C)
   - [ ] [Prime XOR](https://www.hackerrank.com/challenges/prime-xor/problem)
   - [x] [HackerRank City](https://www.hackerrank.com/challenges/hr-city/problem)
