@@ -22,7 +22,7 @@ Dynamic Programming
   - [x] [Shashlik Cooking](https://codeforces.com/problemset/problem/1040/B)
   - [ ] [Divisibility by Eight](https://codeforces.com/problemset/problem/550/C)
   - [ ] [Bishwock](https://codeforces.com/problemset/problem/991/D)
-  - [x] [Functions again](https://codeforces.com/problemset/problem/788/A) *with help
+  - [x] [Functions again](https://codeforces.com/problemset/problem/788/A) *with [help](https://github.com/joy-mollick/Codeforces-B-C-D-Problem-Solutions/blob/master/Codeforces-788A%20-%20Functions%20again.cpp)
   - [x] [An impassioned circulation of affection](https://codeforces.com/problemset/problem/814/C)
   - [ ] [Color Stripe](https://codeforces.com/problemset/problem/219/C)
   - [ ] [Prime XOR](https://www.hackerrank.com/challenges/prime-xor/problem)
