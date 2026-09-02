@@ -51,7 +51,7 @@ Trees & Graphs
 |-----|----------------------------------------------------------------------------------------------------------|---------------------------|
 | ★☆☆ | [Diameter of a Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | <ul> <li> [x] </li> </ul> |
 | ★☆☆ | [Path Sum](https://leetcode.com/problems/path-sum/)                    | <ul> <li> [x] </li> </ul> |
-| ★★☆ | [K-th smallest element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)             | <ul> <li> [ ] </li> </ul> |
+| ★★☆ | [K-th smallest element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)             | <ul> <li> [x] </li> </ul> |
 | ★★☆ | [Find duplicate subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)                               | <ul> <li> [ ] </li> </ul> |
 | ★★☆ | [Lowest Common Ancestor of a binary tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)              | <ul> <li> [ ] </li> </ul> |
 | ★★★ | [Sum of distances in tree](https://leetcode.com/problems/sum-of-distances-in-tree/)              | <ul> <li> [ ] </li> </ul> |
