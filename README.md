@@ -21,7 +21,7 @@ Dynamic Programming
   - [x] [The Great Julya Calendar](https://codeforces.com/problemset/problem/331/C1)
   - [x] [Shashlik Cooking](https://codeforces.com/problemset/problem/1040/B)
   - [x] [Divisibility by Eight](https://codeforces.com/problemset/problem/550/C)
-  - [ ] [Bishwock](https://codeforces.com/problemset/problem/991/D)
+  - [x] [Bishwock](https://codeforces.com/problemset/problem/991/D)
   - [x] [Functions again](https://codeforces.com/problemset/problem/788/A) *with [help](https://github.com/joy-mollick/Codeforces-B-C-D-Problem-Solutions/blob/master/Codeforces-788A%20-%20Functions%20again.cpp)
   - [x] [An impassioned circulation of affection](https://codeforces.com/problemset/problem/814/C)
   - [x] [Color Stripe](https://codeforces.com/problemset/problem/219/C)
