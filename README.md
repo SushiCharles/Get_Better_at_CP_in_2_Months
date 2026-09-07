@@ -61,7 +61,7 @@ Trees & Graphs
 #### BFS and DFS
 
 - [ ] [Ones and Zeroes](https://www.spoj.com/problems/ONEZERO/)
-- [ ] [Prime Path](https://www.spoj.com/problems/PPATH/)
+- [x] [Prime Path](https://www.spoj.com/problems/PPATH/)
 
 #### Strongly Connected Components
 
