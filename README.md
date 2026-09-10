@@ -66,7 +66,7 @@ Trees & Graphs
 #### Strongly Connected Components
 
 - [x] [The Bottom of a Graph](https://www.spoj.com/problems/BOTTOM/)
-- [ ] [Fake Tournament](https://www.spoj.com/problems/TOUR/)
+- [x] [Fake Tournament](https://www.spoj.com/problems/TOUR/)
 
 ### Biconnected Components, Shortest Path and MST
 
