@@ -72,7 +72,7 @@ Trees & Graphs
 
 #### Reading Material
 
-- [ ] [:movie_camera:](https://www.youtube.com/watch?v=aZXi1unBdJA)[Finding Bridges in Graphs](https://cp-algorithms.com/graph/bridge-searching.html)
+- [x] [:movie_camera:](https://www.youtube.com/watch?v=aZXi1unBdJA)[Finding Bridges in Graphs](https://cp-algorithms.com/graph/bridge-searching.html)
 - [ ] [:movie_camera:](https://www.youtube.com/watch?v=aZXi1unBdJA)[Articulation Points](https://github.com/williamfiset/Algorithms/blob/master/slides/graphtheory/bridges_and_articulation_points.pdf)
 - [ ] [:movie_camera:](https://www.youtube.com/watch?v=pSqmAO-m7Lk)[Dijkstra's Shortest path](https://cp-algorithms.com/graph/dijkstra_sparse.html)
 - [ ] [Bellman Ford algorithm](https://cp-algorithms.com/graph/bellman_ford.html)
