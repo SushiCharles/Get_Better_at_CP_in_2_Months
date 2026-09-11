@@ -29,12 +29,12 @@ Dynamic Programming
   - [x] [HackerRank City](https://www.hackerrank.com/challenges/hr-city/problem)
 
 ### Contests
-- [ ] [Educational DP contest on AtCoder](https://atcoder.jp/contests/dp)
-- [ ] [DSA Learning Series: Week 7 - DP By CodeChef](https://www.codechef.com/LRNDSA07)
-- [ ] [Marathon DP - 01](https://vjudge.net/contest/202878)
-- [ ] [V Planet DP - 2](https://codeforces.com/group/hK6hgc8x94/contest/222255)
-- [ ] [V Planet DP - 3](https://codeforces.com/group/hK6hgc8x94/contest/222261)
-- [ ] [V Planet DP Week 5](https://codeforces.com/group/hK6hgc8x94/contest/238061)
+- [ ] [Educational DP contest on AtCoder](https://atcoder.jp/contests/dp) (3/26)
+- [ ] [DSA Learning Series: Week 7 - DP By CodeChef](https://www.codechef.com/LRNDSA07) (0/11)
+- [ ] [Marathon DP - 01](https://vjudge.net/contest/202878) (0/23)
+- [ ] [V Planet DP - 2](https://codeforces.com/group/hK6hgc8x94/contest/222255) (0/13)
+- [ ] [V Planet DP - 3](https://codeforces.com/group/hK6hgc8x94/contest/222261) (0/13)
+- [ ] [V Planet DP Week 5](https://codeforces.com/group/hK6hgc8x94/contest/238061) (0/4)
 
 </details>
 
