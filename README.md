@@ -29,7 +29,7 @@ Dynamic Programming
   - [x] [HackerRank City](https://www.hackerrank.com/challenges/hr-city/problem)
 
 ### Contests
-- [ ] [Educational DP contest on AtCoder](https://atcoder.jp/contests/dp) (3/26)
+- [ ] [Educational DP contest on AtCoder](https://atcoder.jp/contests/dp) (6/26)
 - [ ] [DSA Learning Series: Week 7 - DP By CodeChef](https://www.codechef.com/LRNDSA07) (0/11)
 - [ ] [Marathon DP - 01](https://vjudge.net/contest/202878) (0/23)
 - [ ] [V Planet DP - 2](https://codeforces.com/group/hK6hgc8x94/contest/222255) (0/13)
