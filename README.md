@@ -74,7 +74,7 @@ Trees & Graphs
 
 - [x] [:movie_camera:](https://www.youtube.com/watch?v=aZXi1unBdJA)[Finding Bridges in Graphs](https://cp-algorithms.com/graph/bridge-searching.html)
 - [x] [:movie_camera:](https://www.youtube.com/watch?v=aZXi1unBdJA)[Articulation Points](https://github.com/williamfiset/Algorithms/blob/master/slides/graphtheory/bridges_and_articulation_points.pdf)
-- [ ] [:movie_camera:](https://www.youtube.com/watch?v=pSqmAO-m7Lk)[Dijkstra's Shortest path](https://cp-algorithms.com/graph/dijkstra_sparse.html)
+- [x] [:movie_camera:](https://www.youtube.com/watch?v=pSqmAO-m7Lk)[Dijkstra's Shortest path](https://cp-algorithms.com/graph/dijkstra_sparse.html)
 - [ ] [Bellman Ford algorithm](https://cp-algorithms.com/graph/bellman_ford.html)
 - [ ] [:movie_camera:](https://www.youtube.com/watch?v=4NQ3HnhyNfQ)[Floyd Warshall's algorithm](https://cp-algorithms.com/graph/all-pair-shortest-path-floyd-warshall.html)
 - [ ] [:movie_camera:](https://www.youtube.com/watch?v=JZBQLXgSGfs)[Kruska's Minimum Spanning Tree](https://cp-algorithms.com/graph/mst_kruskal.html)
